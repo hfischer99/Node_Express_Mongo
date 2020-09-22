@@ -1,0 +1,19 @@
+{
+  "name": "trabalho_node",
+  "version": "1.0.0",
+  "description": "Trabalho 8 Sian",
+  "main": "src/servidor.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Fischer",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "mongo": "^0.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
